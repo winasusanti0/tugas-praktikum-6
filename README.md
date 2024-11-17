@@ -1,7 +1,10 @@
 # tugas-praktikum-6
 # Deskripsi Program Daftar Nilai Mahasiswa
 
-Program ini digunakan untuk mengelola data mahasiswa, menghitung nilai akhir, dan menampilkan daftar mahasiswa dalam format tabel. berikut perintah programnya
+Program ini digunakan untuk mengelola data mahasiswa, menghitung nilai akhir, dan menampilkan daftar mahasiswa dalam format tabel. berikut perintah programnya : 
+
+![praktikum 6 satu](https://github.com/user-attachments/assets/9686ba51-63ff-429b-ba67-4204db83768e)
+![praktikum 6 dua](https://github.com/user-attachments/assets/fc376783-a732-4f82-b202-c4f98ce8185b)
 
 ## Fungsi `hitung_nilai_akhir`
 
@@ -55,3 +58,12 @@ Setelah pengguna memilih untuk tidak menambah data lagi, program menampilkan daf
 - **Akhir**: Nilai akhir yang telah dihitung.
 
 ### Contoh Output
+
+
+![TAMPILAN PROGRAM](https://github.com/user-attachments/assets/bcc3d627-36e6-4b84-8125-3cf529a5fff2)
+
+### Flowchart 
+
+![program phyton](https://github.com/user-attachments/assets/1bbeb674-3b5b-4025-8ba0-1825c2f4817a)
+
+
