@@ -59,8 +59,8 @@ Setelah pengguna memilih untuk tidak menambah data lagi, program menampilkan daf
 
 ### Contoh Output
 
+![hasil pemograman praktikum 6](https://github.com/user-attachments/assets/bcbc5920-8f6e-4f58-904a-88e11e18ac33)
 
-![TAMPILAN PROGRAM](https://github.com/user-attachments/assets/bcc3d627-36e6-4b84-8125-3cf529a5fff2)
 
 ### Flowchart 
 
