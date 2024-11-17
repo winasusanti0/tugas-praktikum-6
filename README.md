@@ -1,4 +1,4 @@
-# tugas-praktikum-6
+# WINA SUSANTI R.// NIM : 352310473 (PRAKTIKUM 6)
 # Deskripsi Program Daftar Nilai Mahasiswa
 
 Program ini digunakan untuk mengelola data mahasiswa, menghitung nilai akhir, dan menampilkan daftar mahasiswa dalam format tabel. berikut perintah programnya : 
